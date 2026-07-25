@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -38,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
