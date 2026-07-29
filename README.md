@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
