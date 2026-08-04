@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -86,5 +88,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
