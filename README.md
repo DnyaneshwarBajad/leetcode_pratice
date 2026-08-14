@@ -111,8 +111,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0005-longest-palindromic-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
