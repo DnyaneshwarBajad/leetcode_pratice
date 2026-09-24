@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
 |  |
 | ------- |
