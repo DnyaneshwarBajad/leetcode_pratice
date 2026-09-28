@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0058-length-of-last-word) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2678-number-of-senior-citizens](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Manacher
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
