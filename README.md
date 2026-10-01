@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0419-battleships-in-a-board) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
@@ -94,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
