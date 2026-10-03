@@ -97,11 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
+| [0700-search-in-a-binary-search-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
+| [0700-search-in-a-binary-search-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0022-generate-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
