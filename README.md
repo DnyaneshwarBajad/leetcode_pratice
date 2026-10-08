@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
