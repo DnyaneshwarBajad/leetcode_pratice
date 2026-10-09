@@ -202,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0700-search-in-a-binary-search-tree) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
