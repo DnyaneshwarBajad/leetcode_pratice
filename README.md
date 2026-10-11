@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2678-number-of-senior-citizens](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2678-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
