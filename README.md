@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
