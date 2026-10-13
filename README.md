@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
