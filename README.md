@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0005-longest-palindromic-substring) |
+| [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0058-length-of-last-word) |
+| [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2678-number-of-senior-citizens](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Geometry
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
