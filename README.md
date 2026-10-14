@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0836-rectangle-overlap) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0058-length-of-last-word) |
 | [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2678-number-of-senior-citizens](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Manacher
