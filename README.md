@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1025-divisor-game) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -243,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0944-delete-columns-to-make-sorted) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
