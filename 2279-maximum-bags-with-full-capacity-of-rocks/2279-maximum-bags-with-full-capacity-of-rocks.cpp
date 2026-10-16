@@ -19,9 +19,7 @@ public:
                     v-=req[i];
                     c+=1;
                 }
-                else{
-                    break;
-                }
+                
             }
         }
         return c;
