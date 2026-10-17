@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
 ## Math
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
