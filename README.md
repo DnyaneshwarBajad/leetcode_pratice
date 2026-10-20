@@ -288,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0627-swap-sex-of-employees](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
