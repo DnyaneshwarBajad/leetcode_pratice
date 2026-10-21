@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
+| [0781-rabbits-in-forest](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0781-rabbits-in-forest) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1052-grumpy-bookstore-owner](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0781-rabbits-in-forest](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1025-divisor-game) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0001-two-sum) |
+| [0781-rabbits-in-forest](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0561-array-partition) |
+| [0781-rabbits-in-forest](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0781-rabbits-in-forest) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3075-maximize-happiness-of-selected-children) |
