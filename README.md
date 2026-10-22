@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2351-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2351-first-letter-to-appear-twice](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2351-first-letter-to-appear-twice](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2351-first-letter-to-appear-twice) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Longest Increasing Subsequence
@@ -312,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
