@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3843-first-element-with-unique-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3843-first-element-with-unique-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3223-minimum-length-of-string-after-operations](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3843-first-element-with-unique-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3843-first-element-with-unique-frequency) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
