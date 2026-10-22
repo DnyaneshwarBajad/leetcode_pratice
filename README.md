@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Manacher
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2351-first-letter-to-appear-twice) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
