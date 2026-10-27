@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
+| [1254-number-of-closed-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0743-network-delay-time) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1254-number-of-closed-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
