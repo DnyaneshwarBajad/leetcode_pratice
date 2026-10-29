@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2206-divide-array-into-equal-pairs) |
+| [2239-find-closest-number-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2239-find-closest-number-to-zero) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
