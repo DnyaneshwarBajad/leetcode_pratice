@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0781-rabbits-in-forest) |
+| [0905-sort-array-by-parity](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1052-grumpy-bookstore-owner](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1052-grumpy-bookstore-owner) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0658-find-k-closest-elements) |
+| [0905-sort-array-by-parity](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0005-longest-palindromic-substring) |
 | [0658-find-k-closest-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
