@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0419-battleships-in-a-board) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0658-find-k-closest-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0658-find-k-closest-elements) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0781-rabbits-in-forest) |
