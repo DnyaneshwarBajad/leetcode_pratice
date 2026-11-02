@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1025-divisor-game) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1759-count-number-of-homogenous-substrings) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Tree
