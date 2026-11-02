@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2239-find-closest-number-to-zero) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2678-number-of-senior-citizens](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0905-sort-array-by-parity) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2351-first-letter-to-appear-twice) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3223-minimum-length-of-string-after-operations) |
