@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3843-first-element-with-unique-frequency](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3843-first-element-with-unique-frequency) |
 ## Depth-First Search
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Tree
 |  |
 | ------- |
