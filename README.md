@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DnyaneshwarBajad/leetcode_pratice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
